@@ -9,5 +9,8 @@ public class Main {
 
         System.out.println("Nadea");
 
+        System.out.println("Viorel");
+
+
     }
 }
