@@ -19,6 +19,7 @@ public class Main {
         System.out.println(" ----------------");
         System.out.println("Sorin 2");
         System.out.println("Sabina 2");
+        System.out.println("Viorel 2");
 
     }
 }
