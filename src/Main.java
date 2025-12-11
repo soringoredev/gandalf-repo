@@ -15,5 +15,9 @@ public class Main {
 
         System.out.println("Cristina");
 
+        System.out.println(" ----------------");
+        System.out.println(" ----------------");
+        System.out.println("Sorin 2");
+
     }
 }
