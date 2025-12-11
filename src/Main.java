@@ -14,6 +14,11 @@ public class Main {
         System.out.println("Sabina");
 
         System.out.println("Cristina");
+
+        System.out.println(" ----------------");
+        System.out.println(" ----------------");
+        System.out.println("Sorin 2");
+        System.out.println("Sabina 2");
         System.out.println("Cristina2");
     }
 }
